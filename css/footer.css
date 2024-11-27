@@ -1,0 +1,23 @@
+footer {
+    background-color: #000;
+}
+
+footer.container {
+    min-height: auto;
+}
+
+footer.container .inside {
+    padding: var(--mob-padding);
+}
+
+h4 {
+    color: #fff;
+}
+
+.social-icons {
+    
+}
+
+.social-icons a {
+    
+}
